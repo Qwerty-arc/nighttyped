@@ -246,7 +246,7 @@ color: rgb(114, 128, 255);
 @media(max-width:445px){
 	body::before{
 height: 1300px;
-width: 2500px;
+width: 440px;
 	}
 
 h1{
